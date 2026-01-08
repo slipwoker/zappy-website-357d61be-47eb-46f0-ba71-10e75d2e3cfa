@@ -1,0 +1,57 @@
+# IsraelHub — Generative Engine Optimization Map
+
+> A local services marketplace business.
+
+---
+
+## Pages
+
+### Home
+https://israelhub-357d61be.zappy5.app
+Discover expert child tax credit services in Israel's interactive local services marketplace. Navigate our virtual city to find the perfect service providers!
+
+### Services
+https://israelhub-357d61be.zappy5.app/services
+Professional irs customer service and child tax credit experts await in IsraelHub's service districts. Explore our comprehensive marketplace today!
+
+### About
+https://israelhub-357d61be.zappy5.app/about
+Learn about IsraelHub's mission to revolutionize local services discovery through an interactive virtual city connecting Israelis with expert child tax credit advisors and more.
+
+### Contact
+https://israelhub-357d61be.zappy5.app/contact
+Contact IsraelHub for questions about our virtual service city, child tax credit providers, irs customer service specialists, or any local services in Israel.
+
+## Legal & Policy
+
+### Privacy Policy
+https://israelhub-357d61be.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://israelhub-357d61be.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://israelhub-357d61be.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About IsraelHub
+IsraelHub is a business in the local services marketplace industry.
+
+## Target Audience
+people living in Israel seeking local services
+
+## Industry
+local services marketplace
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://israelhub-357d61be.zappy5.app/sitemap.xml
+- **Robots.txt**: https://israelhub-357d61be.zappy5.app/robots.txt
